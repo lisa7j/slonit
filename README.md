@@ -35,7 +35,7 @@ Git - это система контроля версий.
 2. Блоки кода используются для выделения более длинных фрагментов кода  
 3. Если указать язык программирования после первых трёх апострофов, Markdown-система добавит подсветку синтаксиса  
 
-### Для вывода текста в консоль используйте команду `console.log('Hello, world!')`  
+#### Для вывода текста в консоль используйте команду `console.log('Hello, world!')`  
 
 ```html
 <!DOCTYPE html>
@@ -54,6 +54,6 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 console.log(greet('Alice'));
-
-![Thank you](./img/slonit_img.jpg)
 ```  
+
+![Thank you](./img/slonit_img.jpg) 
