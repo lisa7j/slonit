@@ -5,6 +5,5 @@ function findSumsFromСustomer(sumArray) {
     });
     return totalSum;
 }
-
 let thereSalaries = [10000, 20000, 30000];
 console.log(findSumsFromСustomer(thereSalaries));
